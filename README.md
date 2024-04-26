@@ -1,2 +1,3 @@
 # My-First-Project
-Author- this is talha yaqoob
+this is my first project
+Author: Talha Yaqoob Gujjar
